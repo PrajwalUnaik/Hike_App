@@ -1,3 +1,18 @@
+
+# Hike App
+
+
+
+## Tech Stack
+
+**Client:** Xcode,SwiftUI
+
+
+
+
+## Demo
+
+
 <img width="1144" alt="Screenshot 2023-12-24 at 8 38 16 AM" src="https://github.com/PrajwalUnaik/Hike_App/assets/148428641/8a6b241b-d0c5-4974-98bd-6fdd711a9b48">
 
 
@@ -7,3 +22,24 @@
 
 
 <img width="593" alt="Screenshot 2023-12-24 at 8 38 51 AM" src="https://github.com/PrajwalUnaik/Hike_App/assets/148428641/d96b0ec1-c17f-4bd1-80e1-6d60b5e2190d">
+
+**Working Demo Gif:** 
+
+![Simulator Screen Recording - iPhone 15 - 2023-12-24 at 08 57 46](https://github.com/PrajwalUnaik/Hike_App/assets/148428641/25a73819-b358-4d00-aaeb-f7a9004b0934)
+
+
+## Acknowledgements
+- [iOS App Dev Tutorials | Apple Developer Documentation](https://developer.apple.com/tutorials/app-dev-training/getting-started-with-scrumdinger)
+ 
+ - [Udemy- SwiftUI + SwiftData Masterclass](https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/)
+
+ 
+ 
+
+
+
+
+
+
+
+
