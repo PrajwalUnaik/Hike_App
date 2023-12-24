@@ -2,6 +2,9 @@
 # Hike App
 
 
+Enjoy the thrill of hiking with our SwiftUI-powered Hike app!
+A beautiful card-based design with layout containers that includes features such as a customizable icon, animated Stack, and smooth transitions.
+
 
 ## Tech Stack
 
